@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1521351977 source:c:\users\josef\onedrive\documentos\tec\poo y datos\datos\tarea 4 datos\parte 1\parte 1 tarea 4\main.cpp
+	<iostream>
+	<string>
+	<ArrayStack.h>
+	<LinkedStack.h>
+
+1521340935 c:\users\josef\onedrive\documentos\tec\poo y datos\datos\tarea 4 datos\parte 1\parte 1 tarea 4\include\arraystack.h
+	<stdexcept>
+	<Stack.h>
+
+1521340863 c:\users\josef\onedrive\documentos\tec\poo y datos\datos\tarea 4 datos\parte 1\parte 1 tarea 4\include\stack.h
+
+1521340827 c:\users\josef\onedrive\documentos\tec\poo y datos\datos\tarea 4 datos\parte 1\parte 1 tarea 4\include\linkedstack.h
+	<Node.h>
+	<Stack.h>
+
+1521340795 c:\users\josef\onedrive\documentos\tec\poo y datos\datos\tarea 4 datos\parte 1\parte 1 tarea 4\include\node.h
+	<stdlib.h>
+

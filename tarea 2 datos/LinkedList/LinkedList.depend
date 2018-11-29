@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1520128104 source:c:\users\josef\desktop\linkedlist\main.cpp
+	<iostream>
+	<LinkedList.h>
+	<stdlib.h>
+
+1520128137 c:\users\josef\desktop\linkedlist\include\linkedlist.h
+	"List.h"
+	"Node.h"
+	<stdlib.h>
+
+1519859982 c:\users\josef\desktop\linkedlist\include\list.h
+
+1520030049 c:\users\josef\desktop\linkedlist\include\node.h
+	<stdlib.h>
+

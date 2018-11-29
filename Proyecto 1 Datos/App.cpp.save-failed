@@ -1,0 +1,14 @@
+#include "miniwin.h"
+#include "Tortuga.h"
+#include <iostream>
+
+
+using namespace miniwin;
+
+int main(){
+    int t = tecla();
+    if (t == int('A')) {
+        mensaje("Has presionado la tecla 'A'");
+    }
+    return 0;
+}

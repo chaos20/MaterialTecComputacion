@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1526176598 source:c:\users\josef\google drive\para pasar\tarea 6\main.cpp
+	<iostream>
+	<BSTree.h>
+	<MaxHeap.h>
+	<LinkedList.h>
+	<stdlib.h>
+	<time.h>
+
+1526165786 c:\users\josef\google drive\para pasar\tarea 6\include\bstree.h
+	"BSTNode.h"
+	<stdexcept>
+
+1526161163 c:\users\josef\google drive\para pasar\tarea 6\include\bstnode.h
+
+1526163681 c:\users\josef\google drive\para pasar\tarea 6\include\linkedlist.h
+	"List.h"
+	"Node.h"
+	<stdlib.h>
+
+1526162230 c:\users\josef\google drive\para pasar\tarea 6\include\list.h
+
+1526162242 c:\users\josef\google drive\para pasar\tarea 6\include\node.h
+	<stdlib.h>
+
+1526178137 c:\users\josef\google drive\para pasar\tarea 6\include\maxheap.h
+	<stdexcept>
+

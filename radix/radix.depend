@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1521650407 source:c:\users\lenovo\desktop\datos\radix\main.cpp
+	<iostream>
+	<LinkedList.h>
+
+1521652411 c:\users\lenovo\desktop\datos\radix\include\linkedlist.h
+	"List.h"
+	"Node.h"
+	<stdlib.h>
+
+1521650242 c:\users\lenovo\desktop\datos\radix\include\list.h
+
+1521650201 c:\users\lenovo\desktop\datos\radix\include\node.h
+	<stdlib.h>
+

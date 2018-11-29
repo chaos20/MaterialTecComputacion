@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1320945940 source:c:\users\josef\desktop\nueva carpeta\pruebamini\miniwin.cpp
+	<fstream>
+	<sstream>
+	<queue>
+	<math.h>
+	<process.h>
+	<windows.h>
+	<windowsx.h>
+	"miniwin.h"
+	<cstdio>
+	<cstdlib>
+	<iostream>
+	<string>
+	<queue>
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/Xos.h>
+	<X11/Xatom.h>
+	<X11/keysym.h>
+	"miniwin.h"
+
+1320945940 c:\users\josef\desktop\nueva carpeta\pruebamini\miniwin.h
+	<iostream>
+

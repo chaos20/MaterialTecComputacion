@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1519431548 source:c:\users\josef\desktop\tarea 1 cumpleaños\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+

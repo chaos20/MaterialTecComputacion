@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1320945940 source:c:\users\josef\google drive\para pasar\proyecto 1 datos\miniwin.cpp
+	<fstream>
+	<sstream>
+	<queue>
+	<math.h>
+	<process.h>
+	<windows.h>
+	<windowsx.h>
+	"miniwin.h"
+	<cstdio>
+	<cstdlib>
+	<iostream>
+	<string>
+	<queue>
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/Xos.h>
+	<X11/Xatom.h>
+	<X11/keysym.h>
+	"miniwin.h"
+
+1524706466 c:\users\josef\google drive\para pasar\proyecto 1 datos\miniwin.h
+	<iostream>
+
+1524792332 source:c:\users\josef\google drive\para pasar\proyecto 1 datos\app.cpp
+	"miniwin.h"
+	"Tortuga.h"
+	<iostream>
+
+1524712659 c:\users\josef\google drive\para pasar\proyecto 1 datos\include\tortuga.h
+	<iostream>
+

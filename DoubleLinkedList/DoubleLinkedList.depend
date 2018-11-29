@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\josef\desktop\doublelinkedlist\main.cpp
+	<iostream>
+
+1520901049 source:c:\users\josef\desktop\poo y datos\datos\doublelinkedlist\main.cpp
+	<iostream>
+	<DoubleLinkedList.h>
+
+1520900786 c:\users\josef\desktop\poo y datos\datos\doublelinkedlist\include\doublelinkedlist.h
+	<List.h>
+	<DNode.h>
+	<stdexcept>
+
+1520551808 c:\users\josef\desktop\poo y datos\datos\doublelinkedlist\include\list.h
+
+1520551658 c:\users\josef\desktop\poo y datos\datos\doublelinkedlist\include\dnode.h
+

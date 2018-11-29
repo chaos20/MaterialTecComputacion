@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1522177370 source:c:\users\josef\google drive\para pasar\unsortedarraydiccionary\main.cpp
+	<iostream>
+	<UnsortedArrayDictionary.h>
+
+1522178004 c:\users\josef\google drive\para pasar\unsortedarraydiccionary\include\unsortedarraydictionary.h
+	<Dictionary.h>
+	<KVPair.h>
+	<ArrayList.h>
+	<DoubleLinkedList.h>
+
+1522177205 c:\users\josef\google drive\para pasar\unsortedarraydiccionary\include\dictionary.h
+	<List.h>
+
+1521921054 c:\users\josef\google drive\para pasar\unsortedarraydiccionary\include\list.h
+
+1522003105 c:\users\josef\google drive\para pasar\unsortedarraydiccionary\include\kvpair.h
+
+1521921088 c:\users\josef\google drive\para pasar\unsortedarraydiccionary\include\arraylist.h
+	"List.h"
+	<stdexcept>
+
+1522113229 c:\users\josef\google drive\para pasar\unsortedarraydiccionary\include\doublelinkedlist.h
+	<List.h>
+	<DNode.h>
+	<stdexcept>
+
+1522113262 c:\users\josef\google drive\para pasar\unsortedarraydiccionary\include\dnode.h
+

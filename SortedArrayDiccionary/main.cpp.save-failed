@@ -1,0 +1,10 @@
+#include <iostream>
+#include <SortedArrayDictionary.h>
+
+using namespace std;
+
+int main(){
+    SortedArrayDictionary<int,int> SAD;
+    SAD.insert(2,4);
+    return 0;
+}

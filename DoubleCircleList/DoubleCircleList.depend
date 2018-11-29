@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1520899627 source:c:\users\josef\desktop\poo y datos\datos\doublecirclelist\main.cpp
+	<iostream>
+	<DoubleCircleList.h>
+
+1520902124 c:\users\josef\desktop\poo y datos\datos\doublecirclelist\include\doublecirclelist.h
+	<DNode.h>
+	<DoubleLinkList.h>
+
+1520703962 c:\users\josef\desktop\poo y datos\datos\doublecirclelist\include\dnode.h
+
+1520805910 c:\users\josef\desktop\poo y datos\datos\doublecirclelist\include\doublelinklist.h
+	<List.h>
+	<DNode.h>
+	<stdexcept>
+
+1520805937 c:\users\josef\desktop\poo y datos\datos\doublecirclelist\include\list.h
+

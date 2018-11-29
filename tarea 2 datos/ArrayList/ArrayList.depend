@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1520095928 source:c:\users\josef\desktop\arraylist\main.cpp
+	<iostream>
+	"ArrayList.h"
+	<stdlib.h>
+	<time.h>
+
+1520096153 c:\users\josef\desktop\arraylist\include\arraylist.h
+	"List.h"
+	<stdexcept>
+
+1519859966 c:\users\josef\desktop\arraylist\include\list.h
+

@@ -1,0 +1,16 @@
+#include <iostream>
+#include <BSTree.h>
+
+using namespace std;
+
+int main(){
+    BSTree<int> arb;
+
+    arb.insert(9);
+    arb.insert(2),
+    arb.insert(10);
+    arb.remove(10);
+    arb.remove(9);
+    arb.print();
+    return 0;
+}

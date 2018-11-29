@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1520125445 source:c:\users\josef\desktop\orderedlists\main.cpp
+	<iostream>
+	<stdexcept>
+	<OrderedArrayList.h>
+	<OrderedLinkedList.h>
+	<time.h>
+
+1520119350 c:\users\josef\desktop\orderedlists\include\orderedarraylist.h
+	<List.h>
+	<ArrayList.h>
+	<stdexcept>
+
+1519958470 c:\users\josef\desktop\orderedlists\include\list.h
+
+1520115543 c:\users\josef\desktop\orderedlists\include\arraylist.h
+	"List.h"
+	<stdexcept>
+
+1520124205 c:\users\josef\desktop\orderedlists\include\orderedlinkedlist.h
+	<stdexcept>
+	<Node.h>
+	<LinkedList.h>
+
+1519963954 c:\users\josef\desktop\orderedlists\include\node.h
+
+1520125281 c:\users\josef\desktop\orderedlists\include\linkedlist.h
+	"List.h"
+	"Node.h"
+	<stdlib.h>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1519445897 source:c:\users\josef\desktop\tarea 1 operaciones con matrices\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<time.h>
+	"DynamicMatrix.h"
+
+1519446456 c:\users\josef\desktop\tarea 1 operaciones con matrices\include\dynamicmatrix.h
+	<stdexcept>
+
+1519446471 source:c:\users\josef\desktop\tarea 1 operaciones con matrices\src\dynamicmatrix.cpp
+

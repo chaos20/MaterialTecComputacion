@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1521505954 source:c:\users\josef\onedrive\documentos\tec\poo y datos\datos\tarea 4 datos\parte 2\parte 2 tarea 4\main.cpp
+	<iostream>
+	<ArrayQueue.h>
+	<LinkedQueue.h>
+	<time.h>
+
+1521505223 c:\users\josef\onedrive\documentos\tec\poo y datos\datos\tarea 4 datos\parte 2\parte 2 tarea 4\include\arrayqueue.h
+	<stdexcept>
+	<Queue.h>
+
+1521492250 c:\users\josef\onedrive\documentos\tec\poo y datos\datos\tarea 4 datos\parte 2\parte 2 tarea 4\include\queue.h
+
+1521506116 c:\users\josef\onedrive\documentos\tec\poo y datos\datos\tarea 4 datos\parte 2\parte 2 tarea 4\include\linkedqueue.h
+	<Queue.h>
+	<Node.h>
+	<stdexcept>
+
+1521492276 c:\users\josef\onedrive\documentos\tec\poo y datos\datos\tarea 4 datos\parte 2\parte 2 tarea 4\include\node.h
+	<stdlib.h>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1520786788 source:c:\users\josef\desktop\poo y datos\datos\circlelist\main.cpp
+	<iostream>
+	<CircleList.h>
+
+1520789214 c:\users\josef\desktop\poo y datos\datos\circlelist\include\circlelist.h
+	<Node.h>
+
+1520708618 c:\users\josef\desktop\poo y datos\datos\circlelist\include\node.h
+	<stdlib.h>
+

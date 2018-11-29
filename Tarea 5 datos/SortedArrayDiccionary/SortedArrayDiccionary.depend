@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1522191716 source:c:\users\josef\google drive\para pasar\sortedarraydiccionary\main.cpp
+	<iostream>
+	<SortedArrayDictionary.h>
+
+1522194795 c:\users\josef\google drive\para pasar\sortedarraydiccionary\include\sortedarraydictionary.h
+	<Dictionary.h>
+	<KVPair.h>
+	<OrderedArrayList.h>
+	<DoubleLinkedList.h>
+
+1522175342 c:\users\josef\google drive\para pasar\sortedarraydiccionary\include\dictionary.h
+	<List.h>
+
+1522113474 c:\users\josef\google drive\para pasar\sortedarraydiccionary\include\list.h
+
+1522176138 c:\users\josef\google drive\para pasar\sortedarraydiccionary\include\kvpair.h
+
+1522190460 c:\users\josef\google drive\para pasar\sortedarraydiccionary\include\orderedarraylist.h
+	<List.h>
+	<ArrayList.h>
+	<KVPair.h>
+	<stdexcept>
+
+1522190723 c:\users\josef\google drive\para pasar\sortedarraydiccionary\include\arraylist.h
+	"List.h"
+	<stdexcept>
+
+1522125150 c:\users\josef\google drive\para pasar\sortedarraydiccionary\include\doublelinkedlist.h
+	<List.h>
+	<DNode.h>
+	<stdexcept>
+
+1522125109 c:\users\josef\google drive\para pasar\sortedarraydiccionary\include\dnode.h
+
